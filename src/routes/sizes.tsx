@@ -15,8 +15,8 @@ export const Route = createFileRoute("/sizes")({
 const RULES = [
   { tag: "+1.5", color: "from-fuchsia-500 to-purple-600", items: ["Yeezy Slides", "Yeezy Runner"] },
   { tag: "+1", color: "from-purple-500 to-indigo-600", items: ["All Yeezys", "Football boots"] },
-  { tag: "+0.5", color: "from-indigo-500 to-sky-500", items: ["Air Force 1", "Jordan 1 Low"] },
-  { tag: "TTS", color: "from-emerald-500 to-teal-500", items: ["All other shoes"] },
+  { tag: "TTS", color: "from-indigo-500 to-sky-500", items: ["All other shoes"] },
+  { tag: "-1", color: "from-emerald-500 to-teal-500", items: ["Air Force 1", "Jordan 1 Low"] },
   {
     tag: "−1",
     color: "from-amber-500 to-rose-500",

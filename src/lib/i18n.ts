@@ -116,7 +116,7 @@ export const t = {
       history: "Tracking history",
       carrier: "Carrier",
       tutorialCta: "Check out the tracking tutorial",
-      errorTitle: "Something went wrong",
+      errorTitle: "Our tracking system is being worked on, we are sorry. Track your parcel with our tutorial",
     },
     sizes: {
       title: "Size Guide",
@@ -184,7 +184,7 @@ export const t = {
       history: "Historia śledzenia",
       carrier: "Przewoźnik",
       tutorialCta: "Zobacz poradnik śledzenia",
-      errorTitle: "Coś poszło nie tak",
+      errorTitle: "Nasz system śledzenia jest w fazie tworzenia, przepraszamy. Przesyłkę śledź za pomocą poradnika",
     },
     sizes: {
       title: "Rozmiarówka",
