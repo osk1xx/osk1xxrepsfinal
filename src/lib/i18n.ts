@@ -141,7 +141,7 @@ export const t = {
     tutorials: {
       title: "Tutorials",
       sub: "Step-by-step guides to help you order, check and track.",
-      empty: "No tutorials yet. Check back soon.",
+      empty: "We are working on tutorials. In the meantime, check out my TikTok for guides.",
       steps: "steps",
       step: "Step",
       back: "Back to tutorials",
@@ -209,7 +209,7 @@ export const t = {
     tutorials: {
       title: "Poradniki",
       sub: "Poradniki krok po kroku — jak zamawiać, sprawdzać i śledzić.",
-      empty: "Brak poradników. Zajrzyj wkrótce.",
+      empty: "Pracujemy nad poradnikami. Do tego czasu szukaj poradników na moim tiktoku.",
       steps: "kroków",
       step: "Krok",
       back: "Wróć do poradników",
